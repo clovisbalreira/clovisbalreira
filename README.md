@@ -1,5 +1,7 @@
 # Clóvis Balreira Rodrigues 
 ## Desenvolvedor FrontEnd , Java , Flutter , Python.
+### linkedin
+* https://www.linkedin.com/in/cl%C3%B3vis-balreira-rodrigues-67387039/
 ### FrontEnd 
 * https://clovisbalreira.github.io/Portfolio/
 ### Flutter
