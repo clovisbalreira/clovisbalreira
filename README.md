@@ -3,7 +3,7 @@
 ### linkedin
 * https://www.linkedin.com/in/cl%C3%B3vis-balreira-rodrigues-67387039/
 ### FrontEnd 
-* https://clovisbalreira.github.io/Portfolio/
+* https://clovisbalreira.github.io/portfolio/
 ### Flutter
 * https://github.com/clovisbalreira/cartaoFlutter
 * https://github.com/clovisbalreira/Pokemon
