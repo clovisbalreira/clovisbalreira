@@ -10,6 +10,8 @@
 * https://github.com/clovisbalreira/app_filmes
 ### Java 
 * https://github.com/clovisbalreira/curso_em_video_java_poo
+* https://github.com/clovisbalreira/locadora
+* https://github.com/clovisbalreira/curso_dio
 ### Python 
 * https://github.com/clovisbalreira/cursos-python-web
 
