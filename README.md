@@ -11,7 +11,7 @@
 ### Java 
 * https://github.com/clovisbalreira/curso_em_video_java_poo
 * https://github.com/clovisbalreira/locadora
-* https://github.com/clovisbalreira/curso_dio
+* https://github.com/clovisbalreira/curso_dio_java
 ### Python 
 * https://github.com/clovisbalreira/cursos-python-web
 
