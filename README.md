@@ -14,6 +14,7 @@
 * https://github.com/clovisbalreira/curso_dio_java
 ### Python 
 * https://github.com/clovisbalreira/cursos-python-web
+* https://github.com/clovisbalreira/curso_dio_python
 
 
 <!--
