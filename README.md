@@ -61,5 +61,5 @@ Busco evoluir continuamente através de projetos práticos e desafios reais.
 
 ## 📫 Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/clóvis-balreira-rodrigues-dev/
+- 💼 LinkedIn: https://www.linkedin.com/in/clovis-balreira-rodrigues-dev/
 - 📧 Email: clovisbalreira@gmail.com
