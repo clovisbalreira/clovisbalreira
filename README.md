@@ -12,7 +12,7 @@ Desenvolvedor Front-end com foco em JavaScript, interfaces interativas e integra
 Sistema completo integrando hardware (Arduino) e interface web em tempo real.
 
 🔧 Tecnologias: JavaScript, Web Serial API, Arduino, JSON  
-🔗 https://clovisbalreira.github.io/portfolio/  
+🔗 https://clovisbalreira.github.io/portfolio/websites/pessoal/arduino_placar/index.html 
 
 ---
 
